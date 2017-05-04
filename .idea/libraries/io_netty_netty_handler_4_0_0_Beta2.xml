@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="io.netty:netty-handler:4.0.0.Beta2" type="repository">
+    <properties maven-id="io.netty:netty-handler:4.0.0.Beta2" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/netty-handler-4.0.0.Beta2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-buffer-4.0.0.Beta2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-common-4.0.0.Beta2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-transport-4.0.0.Beta2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
